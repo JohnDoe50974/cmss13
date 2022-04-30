@@ -461,3 +461,30 @@ var/list/kits = list("Pyro" = 2, "Grenadier" = 2, "Sniper" = 2, "Scout" = 2, "De
 	new /obj/item/storage/pouch/general/large(src)
 	new /obj/item/ammo_magazine/shotgun/buckshot(src)
 	new /obj/item/ammo_magazine/shotgun/buckshot(src)
+
+/obj/item/storage/box/kit/pvtkit
+	name = "\improper Rifleman Greenhorn Orientation Kit"
+	desc = "A case containing all of a rifleman's essentials to help the greenest of recruits get prepared for combat."
+
+/obj/item/storage/box/kit/pvtkit/fill_preset_inventory()
+	new /obj/item/clothing/under/marine(src)
+	new /obj/item/clothing/head/helmet/marine(src)
+	new /obj/item/device/radio/headset/almayer/marine(src)
+	new /obj/item/clothing/shoes/marine/knife(src)
+	new /obj/item/clothing/gloves/marine(src)
+	new /obj/item/storage/belt/marine(src)
+	new /obj/item/clothing/suit/storage/marine/medium(src)
+	new /obj/item/storage/backpack/marine/satchel(src)
+	new /obj/item/storage/pouch/flare/full(src)
+	new /obj/item/storage/pouch/firstaid/full/alternate(src)
+	new /obj/item/weapon/gun/rifle/m41a(src)
+	new /obj/item/ammo_magazine/rifle(src)
+	new /obj/item/ammo_magazine/rifle(src)
+	new /obj/item/ammo_magazine/rifle(src)
+	new /obj/item/ammo_magazine/rifle(src)
+	new /obj/item/ammo_magazine/rifle(src)
+	new /obj/item/ammo_magazine/rifle(src)
+	new /obj/item/attachable/flashlight(src)
+	new /obj/item/storage/box/m94(src)
+	new /obj/item/storage/box/m94(src)
+	new /obj/item/storage/box/MRE(src)
