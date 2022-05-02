@@ -103,6 +103,38 @@
 		W.alpha = initial(to_copy.alpha)
 
 
+/obj/effect/alien/weeds/ultra
+	name = "ultra-dense weeds"
+	desc = "These ancient weeds have planted their roots so deep into the soil, they form the entire ground you walk on. Clearing this would take a lot more than a machete."
+	health = WEED_HEALTH_ULTRA
+
+/obj/effect/alien/weeds/ultra/Initialize(mapload, obj/effect/alien/weeds/node/node)
+	. = ..()
+	name = initial(name)
+	weed_strength = WEED_LEVEL_ULTRA
+
+	update_icon()
+
+/obj/effect/alien/weeds/node/ultra
+	name = "ultra-thick resin node"
+	desc = "These ancient weeds have planted their roots so deep into the soil, they form the entire ground you walk on. Clearing this would take a lot more than a machete."
+	health = NODE_HEALTH_ULTRA
+
+/obj/effect/alien/weeds/node/ultra/Initialize(mapload, obj/effect/alien/weeds/node/node, var/mob/living/carbon/Xenomorph/X, var/datum/hive_status/hive)
+	. = ..()
+	name = initial(name)
+	weed_strength = WEED_LEVEL_ULTRA
+
+	update_icon()
+
+/obj/effect/alien/weeds/node/ultra/on_weed_expand(var/obj/effect/alien/weeds/spread_from, var/list/new_weeds)
+	..()
+	var/atom/to_copy = /obj/effect/alien/weeds/ultra
+	for(var/i in new_weeds)
+		var/obj/effect/alien/weeds/W = i
+		W.name = initial(to_copy.name)
+		W.alpha = initial(to_copy.alpha)
+
 /obj/effect/alien/weeds/Destroy()
 	if(parent)
 		if(istype(parent, /obj/effect/alien/weeds/node/pylon))
@@ -486,6 +518,10 @@
 		COMSIG_WEEDNODE_CANNOT_EXPAND_FURTHER,
 	))
 	health = NODE_HEALTH_STANDARD
+
+/obj/effect/alien/weeds/node/ultra
+	health = WEED_HEALTH_ULTRA
+	weed_strength = WEED_LEVEL_ULTRA
 
 /obj/effect/alien/weeds/node/alpha
 	hivenumber = XENO_HIVE_ALPHA

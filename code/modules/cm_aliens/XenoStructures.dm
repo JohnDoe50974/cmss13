@@ -480,6 +480,16 @@
 	health = HEALTH_DOOR_XENO_THICK
 	hardness = 2.0
 
+/obj/structure/mineral_door/resin/ultra
+	name = "ultra-dense resin door"
+	desc = "Incredibly tough alien-looking doors. Bullets and blades bounce off them."
+	health = HEALTH_DOOR_XENO_ULTRA
+	hardness = 2.0
+
+/obj/structure/mineral_door/resin/ultra/examine(mob/user)
+	..()
+	to_chat(usr, SPAN_NOTICE("These doors seem indestructible."))
+
 /obj/effect/alien/resin/acid_pillar
 	name = "acid pillar"
 	desc = "A resin pillar that is oozing with acid."
