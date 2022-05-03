@@ -1,6 +1,6 @@
 /area/lager
 	name = "\improper Lager Redoubt"
-	icon = 'icons/turf/area/lager_redoubt.dmi'
+	icon = 'icons/turf/area_lager.dmi'
 	icon_state = "lager"
 	//ambience=somebeautifulwhitenoise.ogg
 	temperature = ICE_COLONY_TEMPERATURE
