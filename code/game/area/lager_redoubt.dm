@@ -116,6 +116,10 @@
 	name = "Gear Storage Room"
 	icon_state = "preproom"
 
+/area/lager/interior/garage
+	name = "Truck Bay"
+	icon_state = "garage"
+
 /area/lager/underground
 	name = "Lager Redoubt - Subterranean Complex"
 	icon_state = "underground"
