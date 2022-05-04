@@ -522,6 +522,7 @@
 #include "code\game\area\DesertDam.dm"
 #include "code\game\area\IceColony.dm"
 #include "code\game\area\kutjevo.dm"
+#include "code\game\area\lager_redoubt.dm"
 #include "code\game\area\LV624.dm"
 #include "code\game\area\prison.dm"
 #include "code\game\area\Prison_Station_FOP.dm"
