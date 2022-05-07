@@ -92,41 +92,6 @@
 	for(var/obj/effect/landmark/whiskey_outpost/supplydrops/S)
 		supply_spawns += S.loc
 
-/// Pick and setup a WO xeno spawn from landmarks, then spawns the player there alongside any required setup
-/datum/game_mode/whiskey_outpost/proc/pick_wo_xeno_spawn(datum/mind/ghost_mind, var/hivenumber = XENO_HIVE_NORMAL)
-	RETURN_TYPE(/turf)
-
-	var/mob/living/original = ghost_mind.current
-	var/datum/hive_status/hive = GLOB.hive_datum[hivenumber]
-	if(!original || !original.client)
-		return
-
-	if(!length(GLOB.wo_xeno_spawns))
-		transform_wo_xeno(ghost_mind, get_turf(pick(GLOB.wo_xeno_spawns)), hivenumber)
-		return
-
-	// Make the list pretty
-	var/list/spawn_list_map = list()
-	for(var/obj/effect/landmark/wo_xeno_spawn/T as anything in GLOB.wo_xeno_spawns)
-		var/area_name = get_area_name(T)
-		var/spawn_name = area_name
-		var/spawn_counter = 1
-		while(spawn_list_map[spawn_name])
-			spawn_name = "[area_name] [++spawn_counter]"
-		spawn_list_map[spawn_name] = T
-
-	var/selected_spawn = tgui_input_list(original, "Where do you want to spawn?", "Xenomorph Spawn", spawn_list_map)
-
-	var/turf/WOS
-	var/obj/effect/landmark/wo_xeno_spawn/WOSI
-	if(selected_spawn)
-		WOSI = spawn_list_map[selected_spawn]
-		WOS = get_turf(WOSI)
-
-	// Pick a random one if nothing was picked
-	if(isnull(WOS))
-		WOSI = pick(GLOB.wo_xeno_spawns)
-		WOS = get_turf(WOSI)
 
 	//  WO waves
 	var/list/paths = typesof(/datum/whiskey_outpost_wave) - /datum/whiskey_outpost_wave - /datum/whiskey_outpost_wave/random

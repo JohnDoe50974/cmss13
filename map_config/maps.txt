@@ -13,7 +13,7 @@ Format:
 endmap
 
 map lv624
-	default
+	//default
 endmap
 
 map bigredv2
@@ -52,6 +52,10 @@ map sorokyne_strata
 endmap
 
 map whiskey_outpost_v2
+endmap
+
+map lager_redoubt
+	default
 endmap
 
 map haunted_house_v2
