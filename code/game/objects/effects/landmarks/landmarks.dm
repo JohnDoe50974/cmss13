@@ -165,17 +165,6 @@
 	GLOB.xeno_spawns -= src
 	return ..()
 
-/obj/effect/landmark/wo_xeno_spawn
-	name = "whiskey outpost xeno spawn"
-
-/obj/effect/landmark/wo_xeno_spawn/Initialize(mapload, ...)
-	. = ..()
-	GLOB.wo_xeno_spawns += src
-
-/obj/effect/landmark/xeno_spawn/Destroy()
-	GLOB.wo_xeno_spawns -= src
-	return ..()
-
 /obj/effect/landmark/xeno_hive_spawn
 	name = "xeno hive spawn"
 	icon_state = "hive_spawn"

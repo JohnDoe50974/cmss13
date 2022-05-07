@@ -96,7 +96,7 @@
 		else return FALSE
 
 		if(istype(new_xeno) && xeno_candidate && xeno_candidate.client)
-		var/userInput = tgui_input_list(usr, "Where do you want to spawn?", "Spawn", available_xenos)
+		var/userInput = tgui_input_list(usr, "Where do you want to spawn?", "Spawn", available_xenos)	//available_xenos needs to be replaced with a xeno spawn list.
 			if(isnewplayer(xeno_candidate))
 				var/mob/new_player/N = xeno_candidate
 				N.close_spawn_windows()
