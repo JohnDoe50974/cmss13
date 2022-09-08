@@ -1,66 +1,61 @@
 You can link plasteel barricades together using a crowbar. First click one, and then click one adjacent. Repeat as needed.
 A lone marine is a dead marine and a happy xeno. Stick together!
 Watch out for friendly fire. Make sure you're not walking into anyone's firing line, and make sure no one else is in yours!
-Be mindful when using hand grenades. Getting stunned or knocked over after priming a grenade will drop it at your feet. This is obviously very dangerous for not only you, but your friends as well.
+Be mindful when using hand grenades. Getting stunned or knocked over after priming a grenade will drop it at your feet. This is obviously very dangerous for not only you, but your friends as well. Using grenade launchers is almost always a smarter choice.
 Reflective walls will bounce back non-IFF bullets, including rockets. Try not to shoot them.
-Vary your loadout! Doing the same thing every round gets old fast. Try out the pistols, or carry flares.
 Be careful when firing an Orbital Bombardment, Close Air Support, or the Mortar. Make sure you're not about to blow up the entire marine push.
 The Orbital Bombardment is always closer than it looks.
 Never inject a marine you haven't scanned! You might overdose them; ESPECIALLY so with an emergency autoinjector.
-Check perma-dead marines (skull icon on medhud) for useful gear, such as webbings, AP ammo, or binoculars.
-Always check for traps beneath loose objects - it could save your life!
-Bring a fire extinguisher, it might just save someone's life. They can remove flames that block a push, remove acid from other marines, as well as put out people on fire.
-Trading your life for a Xenomorph's is almost always worth it.
-If another marine is stunned, you can click on them with help intent with an open hand to shake them up faster.
-No round has ever been won behind a barricade. Apart from the ones that have.
+Check perma-dead marines (skull icon on medhud) for useful gear, such as webbings, AP ammo, or binoculars. You can always check if a marine is no longer revivable, without any medical skills or equipment - right click the marine, and select "Check Status" from the menu.
+Always check for traps beneath loose objects and items laying on the ground - it could save your life!
+Bring a fire extinguisher, it might just save someone's life. They can remove flames that block a push, remove acid from other marines and barricades, as well as put out people on fire.
+Unsure what an attachment does? Examine it and find out!
+If another marine is stunned, you can click on them with help intent with a free hand to shake them up faster.
+Tricordrazine heals oxygen damage, too. Combining it with bicardine, kelotane, dexalin and dylovene can make the difference when you need someone healed ASAP.
 Always clear weeds and alien structures as you advance.
-Try not to block off pushes when using a flamethrower.
+Try not to block off pushes when using a flamethrower. Bind a key to toggling your underbarrel attachment, so you can quickly extinguish flames as needed.
 Recover bodies whenever possible. Even if the marine is unrevivable, useful gear and ammunition can still be salvaged.
-A lack of supplies at the FOB can cost you the round. Make sure to unpack supply crates, weapons, and ammo for your fellow marines.
-More dakka is not good when it is directed towards your teammates.
+A lack of supplies at the FOB can cost you the round. Make sure to unpack supply crates, weapons, and ammo for your fellow marines, and that requisition is actually doing their job and sending you supplies!
 Never place barricades facing each other - Not only does this block bullets, both barricades are damaged at once if one is slashed!
-An FOB is as strong as its weakest part. Secure all flanks, remember that walls can be pried open.
-Flamethrowers: Green fire is weak and should be used for weed clearing. Queens and Ravagers are flameproof. Most flamethrower damage comes from the initial burst, not the flame on the ground. Don't forget you have an underbarrel extinguisher.
-CPR extends the defib timer on dead marines. It can be done by clicking the dead marine on help intent with an open hand. Make sure to get the rhythm correct!
+An FOB is as strong as its weakest part. Secure all approaches, remember that walls can be pried open and broken through
+Flamethrowers: Green fire will make anything passing through it stuck for a brief moment, and make them more vulnerable to most forms of damage. Blue fire lacks these properties, but deals more direct damage overall.
+CPR extends the defib timer on dead marines. It can be done by clicking the dead marine on help intent with an open hand. Make sure to get the rhythm correct! Only one person should be CPRing a dead marine at a time.
 If the main push is stagnating and the area is congested, try to coordinate with a few others and go to a different area.
-When pushing into an area, check the flanks. Especially so in caves.
-Examine your gun and click [See combat statistics] to view information such as damage for your weapon.
+Be conservative with Tramadol. A Tramadol overdose's effects are amongst the deadliest of any medicine in the game.
+Examine your gun and click [See combat statistics] button in your chat box to view information such as damage for your weapon.
 Xenomorphs who resist while on fire are stunned for some time and emit light. Use that time to catch up and finish them off!
-When you have shrapnel embedded, take out your boot knife and use it in your hand to rip them out of your body.
+When you have shrapnel embedded, take out your boot knife and use it in your hand to rip them out of your body. A surgical scalpel works, too.
 If your weapon has a bayonet, you can manually pry open unpowered doors by clicking on them with the gun. Click on the door again to close it.
 Items on the floor can be shot. Shoot a misthrown HEDP away to save your buddies!
-You can hold a bayonet or throwing knife on your mask slot. Always be prepared.
-Xenomorphs can't apply huggers to marines if they're on fire.
-Dragging a Nanomed onto yourself instantly gives a Health Analyzer report. Always know what's wrong with you.
+Dragging a Nanomed, MarineMed or a Weyland-Med Plus onto yourself instantly gives a Health Analyzer report. Always know what's wrong with you.
 Splints slow you down. Remove them after your bones are healed by using the Remove Your Splints verb.
 Blood loss can lead to hunger, which can slow you down. Make sure you're always full after taking a beating.
-Resin structures are weaker to melee than they are to bullets. Take out your knives!
-You can grab items from second-level storage, such as a splint in a first-aid kit inside a satchel.
-Researchers can make pressurized canister pouches, which can contain up to 480 reagents, and contain custom injectors that can be easily used by privates.
-When fighting xenomorphs, don't aim for the head - It won't increase damage against anyone but your fellow marines.
+Resin structures are weaker to melee than they are to bullets. Use your knives!
+Researchers can make pressurized canister pouches, which can contain up to 480 reagent units, and contain custom injectors that can be easily used by privates.
+When fighting xenomorphs, consider aiming for chest or groin - aiming for the head gives no benefit against xenos and will greatly harm your fellow marines.
 Don't forget to set the Anti-Aircraft Gun!
 Scavenging attachments (or other things) from dead marines isn't bad practice, as long as you make sure they're actually dead first.
 When receiving a supply crate drop from requisitions, make sure to move the crate before opening it - Otherwise subsequent supply crates will be hidden beneath it!
 If a grenade comes your way, hit the deck! Lying down will reduce damage and let you dodge any shrapnel flying overhead.
-You can grab items from second-level storage, such as a splint in a first aid kit stored inside a satchel.
 By right clicking your medical belt and selecting "toggle belt mode", you can take pills out of bottles by simply clicking them once.
-You can put screwdrivers, cigarettes, and some other things in your second ear slot!
-Pilots : there is one of each engine upgrade in the hangar at the start of the round, saving you the point cost of having to print out a pair of each.
+Pilots: If you make a mistake and print out a dropship module you don't want, insert it back into the printer for a points refund.
 You can use a hand labeler (as found in squad prep rooms) to name your equipment and make it less likely to be stolen.
+Officers: If a marine salutes you, salute them back.
+You can use the Security Access Tuner (AKA Multitool) to find the nearest APC. Hold it in your hand and press Z.
 You can use a health analyser in hand (Z key) to check the last scan readout from it.
 Holocards are a useful triage tool for doctors and medics. Ensure you assign them (examine the marine with shift-click and select an appropriate holocard) to marines who have taken damage that cannot be healed without surgery. (Hint : major organ damage or larval infection = red card!)
-Escape pods are designed for only three occupants - more than that, or if a larger xenomorph is in the pod, and it will malfunction and blow up on launch.
-A misloaded OB can deviate severely from the intended target area - ensure you load them correctly!
-The XO and CO are trained in powerloader use and engineering, and can load the OB.
-You can change what your SL tracker beacon is tracking by right clicking on your headset and clicking "Switch Tracker Target".
+Escape pods are designed for only three occupants - more than that, or if a larger xenomorph is in the pod, and it will malfunction and blow up on launch, killing everyone inside.
+A misloaded OB can deviate severely from the intended target area - ensure you load it correctly!
+The XO, CO and SOs are trained in powerloader use and engineering, and can load the OB.
+You can change what your SL tracker beacon is tracking by right clicking on your headset and clicking "Switch Tracker Target". You may also alt-click the tracker itself on your HUD.
 Boilers emit light - not every glow from around the corner is friendly!
 You can carry a variety of items inside your helmet - from gauze and cigarettes to flares and screwdrivers.
 CIC staff can track every USCM-aligned person via the suit sensors console and overwatch console - useful for finding escaped prisoners or dead marines.
-When the M7 RPG is fired, it creates a substantial shockwave behind it that can stun and harm marines standing too close. Watch your backblast!
-Remember that you need to put a defibrillator's paddles away in order to store it.
+The M5 RPG creates a backblast when firing - don't stand behind the rocketeer when they fire!
+Remember to put a defibrillator's paddles back in before storing it.
 W-Y PMCs do not have marine IFF. Don't fire smartguns through them!
 To talk on multiple radio channels at once, put a COMMA [,] before your message and add up to four prefixes. E.g, ,abcd talks on all squad channels at once.
 Put .w or :w before your message to whisper. Another way to whisper is to use the verb "whisper" in the IC tab or command bar.
-For Vehicle Crewmen : it is often safer to repair the parts of your APC or tank inside the vehicle than outside it.
+Vehicle Crewmen : it is often safer to repair the parts of your APC or tank inside the vehicle than outside it.
 It is almost always faster to do surgery manually than in the autodoc.
 To check your skills, go to the IC tab and click "view skills".

@@ -22,5 +22,19 @@ Drag yourself onto a hole in a wall as a medium-sized or smaller xeno to pass th
 Claymores have directional explosions. Set them off early by slashing them from behind.
 If you have difficulty clicking marines, try using Directional Slashing, though there's no directional slashing for abilities.
 You can diagonally pounce through the corners of fire as a Lurker or Runner without getting ignited.
-When playing as xeno, consider aiming at the limbs instead of the chest. Marine armour doesn't protect the arms and legs as well as it does the body.
+When playing as xeno, consider aiming at the limbs instead of the chest. Marine armour doesn't protect the arms and legs as well as it does the body. If the marine is not wearing a helmet, aim for the head instead.
 As xeno, you can break Night-Vision goggles that some marines wear on their helmets. Just aim for the head and slash until the goggles shatter.
+The more you damage a barricade, the bigger chance you have of your attacks passing through it and hitting the marine standing right behind it.
+Xenomorphs can't apply huggers to marines if they're on fire.
+When building hive defences, you can never go wrong with 2x2 walls.
+Avoid building doorways longer than two tiles, as vehicles can break through those.
+Stay on help intent when out of combat - bodyblocking caused the death of many a xeno.
+Synthetics are immune to poisons and toxins - spitting neurotoxin at them does nothing.
+Drones: don't underestimate your versatility! You have a robust plasma pool and can always transfer plasma to other xenos. If you find yourself feeling useless, try purchasing one of the strains.
+Hivelords: resin walking impedes your plasma regeneration, turn it off when you don't need it!
+Runners: if you succesfully blow yourself up using the Acider strain's special ability, you will get a free respawn.
+Defenders: a well timed tailsweep can make all the difference.
+Sentinels: your abilities are a powerful supporting utility, even if you're not looking to capture your victims. Just be sure you don't impede other xenos' movement!
+Spitters: You cannot spit through other xenos!
+Warriors: You can fling marines through other marines.
+Lurkers: Your pounce stuns enemies only while you're invisible.
